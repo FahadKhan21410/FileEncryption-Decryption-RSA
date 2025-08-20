@@ -23,5 +23,5 @@ This project demonstrates the use of RSA encryption to securely encrypt and decr
 * https://youtu.be/Av1HSBU2JyM (How the code works)
 
 ## License
-* This project is licensed under the MIT License - see the [[LICENSE](https://github.com/FahadKhan21410/FileEncryption-RSA/blob/main/LICENSE)] file for details.
+* This project is licensed under the MIT License - see the [[LICENSE](https://github.com/FahadKhan21410/FileEncryption-Decryption-RSA/blob/main/LICENSE))] file for details.
 
